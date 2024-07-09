@@ -2,16 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-.cl-providerIcon__github{
-  
-    filter: invert(1);
-  
-}
-
-.cl-providerIcon__apple{
-  filter: invert(1);
-}
-
 * {
   margin: 0;
   padding: 0;
